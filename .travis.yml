@@ -6,4 +6,4 @@ node_js:
 cache: npm
 
 before_install:
-  - ls -l
+  - ls -la
