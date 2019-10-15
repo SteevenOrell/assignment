@@ -4,10 +4,10 @@ language: node_js
 node_js:
   - "10.9.0"
 
+cache: npm
+
 env:
   - $NOW_TOKEN=vt3vfwRkIfp0wsfHyTf8DN3Q
-
-cache: npm
 
 before_install:
   - "npm config set spin false"
