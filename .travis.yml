@@ -7,7 +7,7 @@ node_js:
 cache: npm
 
 env:
-  - $NOW_TOKEN=vt3vfwRkIfp0wsfHyTf8DN3Q
+  - $NOW_TOKEN=1yXeq1QlPxOdzLC5L8nkV0WB
 
 before_install:
   - "npm config set spin false"
