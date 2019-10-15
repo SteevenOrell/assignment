@@ -5,7 +5,7 @@ node_js:
   - "10.9.0"
 
 env:
-  -NOW_TOKEN=vt3vfwRkIfp0wsfHyTf8DN3Q
+  -$NOW_TOKEN=vt3vfwRkIfp0wsfHyTf8DN3Q
 
 cache: npm
 
